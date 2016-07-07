@@ -1,6 +1,6 @@
 # palette2colormap
 
-You may need Python 3+, matplotlib, scipy, pillow and (maybe) mpl_toolkits.
+You may need Python 3+, matplotlib, scipy, and pillow libraries.
 
     python pallete2colormap.py <png file> <reverse 1|0>
 
