@@ -1,6 +1,6 @@
 # palette2colormap
 
-You may need Python 2.7+ and (pip install) matplotlib, numpy and (maybe) mpl_toolkits.
+You may need Python 3+ and (pip install) matplotlib, numpy and (maybe) mpl_toolkits.
 
     python pallete2colormap.py <png file> <reverse 1|0>
 
