@@ -39,6 +39,7 @@ def custom_cmap(_sample, _reverse=False):
     return mycmap
 
 def shift_cmap(cmap, start=0, midpoint=0.5, stop=1.0, name='shiftedcmap'):
+    #credits: http://stackoverflow.com/questions/7404116/defining-the-midpoint-of-a-colormap-in-matplotlib
     # regular index to compute the colors
     reg_index = np.linspace(start, stop, 257)
     cdict = {
