@@ -12,3 +12,8 @@ I really recommend using Anaconda to get dependencies:
     source activate cmap #or whatever name you like
     conda install matplotlib scipy pillow
   
+Examples
+
+![alt tag](https://github.com/fhorta/palette2colormap/blob/master/example/W5.png)
+![alt tag](https://github.com/fhorta/palette2colormap/blob/master/example/W5-normal.png)
+![alt tag](https://github.com/fhorta/palette2colormap/blob/master/example/W5-reverse.png)
