@@ -6,7 +6,7 @@ You may need Python 3+, matplotlib, scipy, and pillow libraries.
 
 You can run a sample (as attached) or import the code and create/shift your colormap.
 
-I highly recommend using Anaconda (https://www.continuum.io/downloads) to get manage dependencies (for life): 
+I highly recommend using Anaconda (https://www.continuum.io/downloads) to manage dependencies: 
 
     conda create --name cmap python=3
     source activate cmap #or whatever name you like
