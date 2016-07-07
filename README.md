@@ -12,7 +12,7 @@ I really recommend using Anaconda to get dependencies:
     source activate cmap #or whatever name you like
     conda install matplotlib scipy pillow
   
-Examples
+Example
 
 ![alt tag](https://github.com/fhorta/palette2colormap/blob/master/example/W5.png)
 ![alt tag](https://github.com/fhorta/palette2colormap/blob/master/example/W5-normal.png)
