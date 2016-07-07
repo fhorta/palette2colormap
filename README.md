@@ -6,7 +6,9 @@ You may need Python 2.7+ and (pip install) matplotlib, numpy and (maybe) mpl_too
 
 You can run a sample (as attached) or import the code and create/shift your colormap.
 
-I highly recommend using Anaconda to get dependencies: https://www.continuum.io/downloads
+I highly recommend using Anaconda to get dependencies: 
+
+    #Download https://www.continuum.io/downloads
 
     conda create --name cmap python=3
     source activate cmap #or whatever name you like
