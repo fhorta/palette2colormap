@@ -2,7 +2,7 @@
 
 You may need Python 3+, matplotlib, scipy, and pillow libraries.
 
-    python pallete2colormap.py <png file> <reverse 1|0>
+    python palete2colormap.py <png file> <reverse 1|0>
 
 You can run a sample (as attached) or import the code and create/shift your colormap.
 
