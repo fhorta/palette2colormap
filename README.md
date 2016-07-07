@@ -12,4 +12,3 @@ I really recommend using Anaconda to get dependencies:
     source activate cmap #or whatever name you like
     conda install matplotlib scipy pillow
   
-  
